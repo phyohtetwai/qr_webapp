@@ -28,17 +28,25 @@ A simple and elegant **Flask-based web application** that allows users to upload
 ## 📦 Installation
 
 ### 1️⃣ Clone the Repository
+```bash
 git clone https://github.com/phyohtetwai/qr_webapp.git
 cd qr_webapp
+```
 
 ### 2️⃣ Create Virtual Environment
+```bash
 python3 -m venv venv
 source venv/bin/activate   # On Windows use: venv\Scripts\activate
+```
 
 ### 3️⃣ Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
 ### ▶️ Run the Application
+```bash
 python app.py
+```
 
 By default, Flask runs on http://127.0.0.1:7777
