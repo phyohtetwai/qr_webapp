@@ -28,7 +28,6 @@ A simple and elegant **Flask-based web application** that allows users to upload
 ## 📦 Installation
 
 ### 1️⃣ Clone the Repository
-```bash
 git clone https://github.com/phyohtetwai/qr_webapp.git
 cd qr_webapp
 
