@@ -48,5 +48,9 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+### Error found at installing depedencies
+```
+apt install build-essential libcairo2-dev pkg-config python3-dev
+```
 
 By default, Flask runs on http://127.0.0.1:7777
